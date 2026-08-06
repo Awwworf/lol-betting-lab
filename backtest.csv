@@ -10,3 +10,10 @@ LCK26R34_0808,LCK R3-4,2026-08-01,GEN vs DK,2,GEN,JarvanIV;Lucian;Milio;Rumble;Y
 LCK26R34_0809,LCK R3-4,2026-08-02,DNS vs BRO,1,DNS,Cassiopeia;LeeSin;Shen;Yorick;Taliyah,Camille;Ezreal;XinZhao;Rumble;Anivia,Poppy;Locke;Jayce;Syndra;Vayne,Orianna;Vi;Nocturne;KSante;Ambessa,15,5,32:11,DNS,P1-UNDER_E26.6,DNS,UNDER,P1:1,-
 LCK26R34_0810,LCK R3-4,2026-08-02,KT vs HLE,1,KT,Cassiopeia;Nautilus;MissFortune;Rumble;Skarner,Lucian;Milio;JarvanIV;Locke;Ambessa,Camille;Nocturne;Vi;Olaf;Akali,Ezreal;Jayce;Orianna;Pantheon;Gnar,-,-,34:51,KT,none,-,-,none,-
 LCK26R34_0811,LCK R3-4,2026-08-05,BRO vs NS,1,BRO,Cassiopeia;Skarner;Shen;Ambessa;Corki,Camille;LeeSin;Olaf;Jhin;Anivia,Poppy;Rumble;Locke;Syndra;Ezreal,Nocturne;Vi;Orianna;Jax;Vayne,32,20,40:24,BRO,P1-MID_no-bet,-,-,ML-hyp:0,-
+LPL26S3_0901,LPL Split 3,2026-08-02,TES vs JDG,1,TES,-,-,-,-,27,8,32:49,TES,P1-MID_no-bet,-,-,none,-
+LPL26S3_0902,LPL Split 3,2026-08-01,AL vs TT,1,AL,-,-,-,-,15,3,21:55,AL,P1-MID_no-bet,-,-,none,-
+LPL26S3_0903,LPL Split 3,2026-08-01,AL vs TT,2,AL,-,-,-,-,20,8,24:09,AL,P1-MID_no-bet,-,-,none,-
+LPL26S3_0904,LPL Split 3,2026-07-31,WE vs BLG,1,WE,-,-,-,-,9,20,30:46,BLG,P1-MID_no-bet,-,-,none,-
+LPL26S3_0905,LPL Split 3,2026-08-01,JDG vs BLG,1,JDG,-,-,-,-,10,20,33:50,BLG,P1-MID_no-bet,-,-,none,-
+LPL26S3_0906,LPL Split 3,2026-08-01,LGD vs TES,1,LGD,-,-,-,-,12,4,26:16,LGD,P1-MID_no-bet,-,-,none,apset_LGD
+LPL26S3_0907,LPL Split 3,2026-07-31,AL vs EDG,2,AL,-,-,-,-,27,11,27:43,AL,P1-MID_no-bet,-,-,note_kills_conflict,
