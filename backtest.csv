@@ -17,3 +17,7 @@ LPL26S3_0904,LPL Split 3,2026-07-31,WE vs BLG,1,WE,-,-,-,-,9,20,30:46,BLG,P1-MID
 LPL26S3_0905,LPL Split 3,2026-08-01,JDG vs BLG,1,JDG,-,-,-,-,10,20,33:50,BLG,P1-MID_no-bet,-,-,none,-
 LPL26S3_0906,LPL Split 3,2026-08-01,LGD vs TES,1,LGD,-,-,-,-,12,4,26:16,LGD,P1-MID_no-bet,-,-,none,apset_LGD
 LPL26S3_0907,LPL Split 3,2026-07-31,AL vs EDG,2,AL,-,-,-,-,27,11,27:43,AL,P1-MID_no-bet,-,-,note_kills_conflict,
+LPL26S3_1001,LPL Split 3,2026-07-22,TES vs WE,1,TES,-,-,-,-,17,11,31:17,TES,P1-MID_no-bet,-,-,none,-
+LPL26S3_1002,LPL Split 3,2026-07-22,TES vs WE,2,TES,-,-,-,-,42,15,29:09,TES,P1-MID_no-bet,-,-,none,anomaly_57kills
+LPL26S3_1003,LPL Split 3,2026-07-24,EDG vs BLG,2,EDG,-,-,-,-,17,15,37:22,EDG,P1-UNDER_E27.6,-,UNDER,P1:0,false-positive_border
+LPL26S3_1004,LPL Split 3,2026-07-23,JDG vs AL,2,JDG,-,-,-,-,20,7,36:09,AL,P1-UNDER_E27.6,-,UNDER,P1:1,-
